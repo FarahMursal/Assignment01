@@ -46,3 +46,5 @@ let address
 let zipCode
 
 // Step 6
+let yrsplaying = 10
+console.log('Farah has been playing basketball for ' + yrsplaying + ' years')
